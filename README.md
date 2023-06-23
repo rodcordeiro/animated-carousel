@@ -2,7 +2,7 @@
 
 ![Expo](https://img.shields.io/badge/Expo-000?logo=expo&style=flat-square)
 ![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript&style=flat-square)
-![react-native](https://img.shields.io/badge/React%20Native-black?logo=react&style=flat-square)
+![react-native](https://img.shields.io/badge/React_Native-black?logo=react&style=flat-square)
 
 Animated carousel created with React native Animated and Flatlist components.
 
@@ -24,6 +24,10 @@ npm start
 # or if you use yarn
 yarn
 ```
+
+Or run the Expo snack on Web
+
+[![Expo](https://img.shields.io/badge/Expo-000?logo=expo&style=flat-square&label=Run%20on)](https://snack.expo.dev/@rodcordeiro/animated-carousel)
 
 ## References
 
